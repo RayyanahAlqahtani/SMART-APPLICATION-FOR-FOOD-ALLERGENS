@@ -1,0 +1,12 @@
+flask
+flask-cors
+pillow
+python-dotenv
+google-generativeai
+requests
+fuzzywuzzy
+python-Levenshtein
+pandas
+matplotlib
+seaborn
+ipykernel
